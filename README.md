@@ -5,7 +5,7 @@ Collection interesting things from GitHub
 
 Project: 
 
-- [Chatgpt_Academic](https://github.com/binary-husky/chatgpt_academic) | 
+- [Chatgpt_Academic](https://github.com/binary-husky/chatgpt_academic) | [Installation of ChatGPT Academic](https://github.com/JaviYoung/Daily_Collect/blob/main/OpenAI/Installation.md)
 - 
 
 
