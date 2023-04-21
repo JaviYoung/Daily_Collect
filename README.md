@@ -11,7 +11,7 @@ Project:
 
 
 # Stable Diffusion
-- [[Diffusion Bee]] A Stable Diffusion UI on MacOS
+- [Diffusion Bee](https://github.com/JaviYoung/Daily_Collect/blob/main/Stable Diffusion/Diffusion Bee.md) A Stable Diffusion UI on MacOS
 - [Arthub.ai: Discover, Upload and Share AI Generated Art](https://arthub.ai/) - ArtHub 
 - [Civitai | Stable Diffusion models, embeddings, hypernetworks and more](https://civitai.com/)
 - NeverEnding Dream (NED) 
