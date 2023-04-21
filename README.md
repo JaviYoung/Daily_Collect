@@ -11,7 +11,7 @@ Collection interesting things from GitHub
 Project: 
 
 - [Chatgpt_Academic](https://github.com/binary-husky/chatgpt_academic) | [Installation of ChatGPT Academic](https://github.com/JaviYoung/Daily_Collect/blob/main/OpenAI/Installation.md)
-- 
+- [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) | Installation on Mobile
 
 ## Stable Diffusion
 
